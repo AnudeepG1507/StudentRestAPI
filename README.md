@@ -1,4 +1,4 @@
-# springRestAPIDemo
+# springRestAPI
 
 Download or clone the application into the respective directory
 
